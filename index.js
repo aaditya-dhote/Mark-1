@@ -20,3 +20,4 @@ var listans = ["Prince", "Betul", "Indore", "Mechanical", "Mango"]
 for (var i = 0; i < list.length; i++)
   play(list[i], listans[i]);
 console.log("Yay your Total score is: " + score);
+console.log("Highest score is 4")
